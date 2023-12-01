@@ -8,8 +8,8 @@ function ScreenSaver({ color = 'white' }) {
     x: 100,
     y: 122,
     inertia: {
-      horizontal: 1,
-      vertical: 1,
+      horizontal: 3,
+      vertical: 3,
     },
   });
 
